@@ -74,6 +74,10 @@ setup(
         ],
 	    #"bin": ["./bin/*"],
     },
+	install_requires = [
+		"openai-whisper",
+		"wget"
+	],
 	include_package_data=True,
 
     entry_points={

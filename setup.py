@@ -21,7 +21,7 @@ def get_version(rel_path: str) -> str:
     raise RuntimeError("Unable to find version string.")
 
 
-long_description = read("README.rst")
+long_description = read("README.md")
 
 setup(
     name="whisper_cli",

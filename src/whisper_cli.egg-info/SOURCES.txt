@@ -1,0 +1,11 @@
+README.rst
+setup.py
+src/whisper_cli/__init__.py
+src/whisper_cli/cli.py
+src/whisper_cli/download_ffmpeg.py
+src/whisper_cli.egg-info/PKG-INFO
+src/whisper_cli.egg-info/SOURCES.txt
+src/whisper_cli.egg-info/dependency_links.txt
+src/whisper_cli.egg-info/entry_points.txt
+src/whisper_cli.egg-info/not-zip-safe
+src/whisper_cli.egg-info/top_level.txt

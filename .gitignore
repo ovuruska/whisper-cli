@@ -1,0 +1,23 @@
+# Artifacts
+dist
+build
+
+# Binaries
+bin
+
+
+# Project configuration
+.idea
+.vscode
+
+# Logs
+logs
+
+# Runtime data
+*.7z
+*.dmg
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip

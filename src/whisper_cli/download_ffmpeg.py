@@ -1,15 +1,24 @@
 import os
 import platform
+import sys
 import zipfile
-import py7zr
 
 import wget
+
+
+def progress_bar(current, total,width=80):
+	current_mb = current / 1024 / 1024
+	total_mb = total / 1024 / 1024
+	progress_message = "Downloading: %d%% [%d MB / %d MB] bytes" % (current_mb / total_mb * 100, current_mb, total_mb)
+	# Don't use print() as it will print in new line every time.
+	sys.stdout.write("\r" + progress_message)
+	sys.stdout.flush()
 
 
 def windows_strategy():
 	# Download ffmpeg
 	url = "https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-n6.0-latest-win64-lgpl-6.0.zip"
-	wget.download(url, 'ffmpeg.zip')
+	wget.download(url, 'ffmpeg.zip',bar=progress_bar)
 
 	# Extract ffmpeg
 	with zipfile.ZipFile('ffmpeg.zip', 'r') as zip_ref:
@@ -28,12 +37,12 @@ def mac_strategy():
 	ffprobe_url = "https://evermeet.cx/ffmpeg/ffprobe-109934-g891ed24f77.7z"
 	ffplay_url = "https://evermeet.cx/ffmpeg/ffplay-107951-g90aa2a88f9.7z"
 
-	wget.download(ffmpeg_url, 'ffmpeg.7z')
-	wget.download(ffprobe_url, 'ffprobe.7z')
-	wget.download(ffplay_url, 'ffplay.7z')
+	wget.download(ffmpeg_url, 'ffmpeg.zip',bar=progress_bar)
+	wget.download(ffprobe_url, 'ffprobe.zip',bar=progress_bar)
+	wget.download(ffplay_url, 'ffplay.zip',bar=progress_bar)
 
 	# Extract ffmpeg
-	with zipfile.ZipFile('ffmpeg.7z', 'r') as zip_ref:
+	with zipfile.ZipFile('ffmpeg.zip', 'r') as zip_ref:
 		zip_ref.extract('ffmpeg', path="bin")
 
 	with zipfile.ZipFile('ffprobe.7z', 'r') as zip_ref:
@@ -51,6 +60,10 @@ def mac_strategy():
 def download_ffmpeg():
 	system = platform.system()
 	machine = platform.machine()
+
+	if not os.path.exists('bin'):
+		os.mkdir("bin")
+
 
 	if system == 'Windows':
 		windows_strategy()

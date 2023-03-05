@@ -1,0 +1,365 @@
+Detecting language using up to the first 30 seconds. Use `--language` to specify the language
+Detected language: English
+[00:00.000 --> 00:03.640]  I'm Akshay Kuttari, I'm the co-founder and CEO of Notion.
+[00:03.640 --> 00:05.920]  Notion is a productivity software company.
+[00:05.920 --> 00:08.040]  And what we're trying to do is essentially provide you
+[00:08.040 --> 00:11.240]  one simple medium where you can essentially do all your work.
+[00:11.240 --> 00:14.080]  Everything from note-taking to having a knowledge base
+[00:14.080 --> 00:17.160]  for a company managing your projects all in a single medium.
+[00:17.160 --> 00:20.000]  We've done this by giving people building blocks
+[00:20.000 --> 00:22.120]  or what these apps are built from.
+[00:22.120 --> 00:24.560]  Before this, I was at LinkedIn for many years
+[00:24.560 --> 00:26.680]  when they acquired my previous startup, Pulse,
+[00:26.680 --> 00:30.840]  and excited Charity today.
+[00:30.840 --> 00:37.320]  I was really good at math and physics,
+[00:37.320 --> 00:40.120]  and I studied electrical engineering when I came to the US.
+[00:40.120 --> 00:42.680]  And I actually did a lot of engineering internships.
+[00:42.680 --> 00:45.120]  It turns out that I didn't enjoy that much.
+[00:45.120 --> 00:49.360]  I found the engineering work to be a bit too granular.
+[00:49.360 --> 00:51.440]  I haven't really coded in a long time.
+[00:51.440 --> 00:54.200]  I'm much more interested in product and business
+[00:54.200 --> 00:55.240]  and the intersection of that.
+[00:55.240 --> 00:57.480]  I wanted to take a step back and think about
+[00:57.480 --> 01:01.080]  maybe more larger, higher level product business things
+[01:01.080 --> 01:02.320]  that I could be working on.
+[01:02.320 --> 01:05.240]  In between my bachelor's degree and my master's degree,
+[01:05.240 --> 01:07.280]  I spent a year in venture capital.
+[01:07.280 --> 01:09.960]  That's actually for me was a very important year
+[01:09.960 --> 01:11.920]  because I got to meet a lot of entrepreneurs.
+[01:11.920 --> 01:14.400]  After hearing the pitches for about a year,
+[01:14.400 --> 01:16.320]  I realized that I wanted to be on the other side.
+[01:16.320 --> 01:18.320]  Not hearing the pitches invested,
+[01:18.320 --> 01:20.880]  but actually wanting to start something of my own.
+[01:20.880 --> 01:22.040]  That took me to Stanford.
+[01:22.040 --> 01:23.640]  So I took me to Stanford for two years.
+[01:23.640 --> 01:25.760]  Every quarter I tried to start a company.
+[01:25.760 --> 01:28.040]  Many of them failed, but in my last quarter,
+[01:28.040 --> 01:30.640]  I started Pulse, which was essentially
+[01:30.640 --> 01:34.600]  a news application built for the iPad back in 2010.
+[01:34.600 --> 01:37.160]  We built this as a class project at Stanford.
+[01:37.160 --> 01:38.440]  We built this pretty fast.
+[01:38.440 --> 01:40.480]  We had to, and the whole class was 11 weeks.
+[01:40.480 --> 01:44.680]  So we built this hacked up version of Pulse in about six weeks.
+[01:44.680 --> 01:46.440]  And we put it out in the App Store,
+[01:46.440 --> 01:48.040]  not sure how it would do.
+[01:48.040 --> 01:51.000]  In a couple of weeks, it went up to the top of the App Store.
+[01:51.000 --> 01:53.080]  A few weeks later, Steve Jobs talked about it
+[01:53.080 --> 01:55.480]  in the WWDC in 2010.
+[01:55.480 --> 01:58.520]  And again, let me just show you some of the latest apps
+[01:58.520 --> 02:01.600]  that have been out Pulse, which is a wonderful RSS reader
+[02:01.600 --> 02:02.600]  if you haven't seen it.
+[02:02.600 --> 02:05.080]  And overnight, it went from like a class project
+[02:05.080 --> 02:06.080]  to being a company.
+[02:06.080 --> 02:08.600]  I think the big learnings, one is that when you're building
+[02:08.600 --> 02:11.000]  something, I think you sort of, my natural inclination
+[02:11.000 --> 02:13.240]  was to like not release publicly.
+[02:13.240 --> 02:14.600]  I wanted to make things better.
+[02:14.600 --> 02:16.760]  I think if I had done that, I think I probably would have never
+[02:16.760 --> 02:17.280]  released.
+[02:17.280 --> 02:19.440]  I think the professor in the class, and I remember Michael
+[02:19.440 --> 02:22.360]  Deering, pushed me to like release, even the beta version
+[02:22.360 --> 02:23.200]  of the product we had.
+[02:23.200 --> 02:25.240]  And by putting it out there, we got so much feedback.
+[02:25.240 --> 02:26.000]  We improved it.
+[02:26.000 --> 02:27.960]  Regarding the market, we became a company.
+[02:27.960 --> 02:29.640]  So I think some of bias towards action,
+[02:29.640 --> 02:31.440]  of actually shipping something quickly,
+[02:31.440 --> 02:33.000]  was worked out really well for us.
+[02:33.000 --> 02:35.640]  I think the second thing that I learned was that many times,
+[02:35.640 --> 02:38.440]  like we are much more interested in becoming an entrepreneur
+[02:38.440 --> 02:41.520]  or starting a company rather than actually solving a problem.
+[02:41.520 --> 02:42.960]  And if I think about Pulse courses,
+[02:42.960 --> 02:45.200]  the previous things I had done, Pulse was actually
+[02:45.200 --> 02:47.080]  solving a real problem that existed,
+[02:47.080 --> 02:49.600]  which was that it was impossible to read news
+[02:49.600 --> 02:51.200]  on your phone back in 2010.
+[02:51.200 --> 02:53.600]  I think if you build something that people want,
+[02:53.600 --> 02:55.320]  that people are struggling with,
+[02:55.320 --> 02:57.240]  I think they will come and actually use the product.
+[02:57.240 --> 02:58.840]  And then probably the last thing I would say,
+[02:58.840 --> 03:01.040]  that I think product is only half of the puzzle.
+[03:01.040 --> 03:02.520]  I think you have to think about distribution
+[03:02.520 --> 03:05.200]  and how you take the product to market.
+[03:05.200 --> 03:06.640]  You know, that's something that we use
+[03:06.640 --> 03:08.080]  that I think a lot about notion.
+[03:08.080 --> 03:10.080]  Like we could be building the best possible product
+[03:10.080 --> 03:12.000]  in this office, but if we don't figure out
+[03:12.000 --> 03:13.320]  a way to distribute our product,
+[03:13.320 --> 03:16.080]  like, you know, people will never know what we've built.
+[03:18.080 --> 03:20.640]  In college, I studied cognitive science,
+[03:20.640 --> 03:23.200]  human brain works and a little bit computing,
+[03:23.200 --> 03:24.640]  a little bit of philosophy,
+[03:24.640 --> 03:27.680]  but I really got into fine arts, photography.
+[03:27.680 --> 03:30.160]  At the end of my school years,
+[03:30.160 --> 03:31.760]  most of my friends are artists.
+[03:31.760 --> 03:34.120]  I'm the only person who knows how to code in my friends
+[03:34.120 --> 03:36.320]  or co-s, so I start building web pages for everyone.
+[03:36.320 --> 03:39.440]  After making those three, four or four or five websites,
+[03:39.440 --> 03:40.840]  those people are creative.
+[03:40.840 --> 03:42.320]  They can build their own websites
+[03:42.320 --> 03:43.640]  if they know how to do that.
+[03:43.640 --> 03:47.040]  Computing as a medium, they don't know how to speak that medium.
+[03:47.040 --> 03:49.320]  With Spotify as a tool,
+[03:49.320 --> 03:51.160]  everybody can play music.
+[03:51.160 --> 03:53.360]  At that stage, it's still very much thinking about
+[03:53.360 --> 03:56.160]  how can I help other people to create their websites.
+[03:56.160 --> 03:58.120]  Ivan was Bayesian Canada.
+[03:58.120 --> 04:01.960]  He decided to come to the Bay Area in San Francisco in 2011.
+[04:01.960 --> 04:04.720]  He put out a simple post in hacker news,
+[04:04.720 --> 04:06.680]  which basically said, like, hey, I'm a designer,
+[04:06.680 --> 04:09.200]  I'm looking for a job, I want to work in San Francisco,
+[04:09.200 --> 04:11.920]  and I essentially wanted to hire him as a designer.
+[04:11.920 --> 04:14.200]  And we actually gave him an offer to join Pulitzer
+[04:14.200 --> 04:16.720]  back in 2011, but he ended up joining another company.
+[04:16.720 --> 04:17.840]  But we kept in touch,
+[04:17.840 --> 04:21.400]  and after I had sold Pulitzer to LinkedIn in 2013,
+[04:21.400 --> 04:22.800]  he was about to start a notion.
+[04:22.800 --> 04:25.000]  Notion ended up being my first investment.
+[04:25.000 --> 04:27.360]  I had no intention to join full time.
+[04:27.360 --> 04:28.880]  I think that happened five years later.
+[04:28.880 --> 04:30.560]  I think even before he started a notion,
+[04:30.560 --> 04:33.440]  I think he was thinking about this problem for many years.
+[04:33.440 --> 04:37.640]  He deeply believes that everyone can be a creator,
+[04:37.640 --> 04:40.520]  and that computing devices are built for creation,
+[04:40.520 --> 04:41.600]  not just consumption.
+[04:41.600 --> 04:44.320]  To me, that felt like a really compelling mission,
+[04:44.320 --> 04:46.600]  because if you can actually make it happen,
+[04:46.600 --> 04:49.360]  you can unleash a lot of creativity in the world.
+[04:49.360 --> 04:51.680]  In many ways, when you were investing in early stage,
+[04:51.680 --> 04:53.880]  I think you were sort of like betting on the person
+[04:53.880 --> 04:57.040]  much more than the idea, because the idea can actually change.
+[04:57.040 --> 04:59.600]  For that specific thing, it was very easy to bet on Ivan,
+[04:59.600 --> 05:00.880]  because you could see the passion
+[05:00.880 --> 05:03.080]  and sort of deep thinking he had done
+[05:03.080 --> 05:05.920]  before, even before he started a notion.
+[05:05.920 --> 05:10.040]  At your environment, those are the documents you have in Notion.
+[05:10.040 --> 05:11.640]  If we try to reward our stuff,
+[05:11.640 --> 05:13.920]  you just drag it where you think it should be.
+[05:13.920 --> 05:16.960]  The very first version of Notion is a web page builder.
+[05:16.960 --> 05:18.920]  That's the prototype, and from there,
+[05:18.920 --> 05:21.800]  evolve into a web app builder.
+[05:21.800 --> 05:24.360]  But that's pretty much the first few years of Notion.
+[05:24.360 --> 05:27.160]  Takes me several years to realize that people
+[05:27.160 --> 05:28.600]  don't want to build apps.
+[05:28.600 --> 05:30.240]  Very few people want to do that.
+[05:30.240 --> 05:32.000]  It's kind of collaborative building apps,
+[05:32.000 --> 05:33.640]  and it's kind of like a document editing.
+[05:33.640 --> 05:35.800]  It's kind of like X-code for the web.
+[05:35.800 --> 05:36.920]  It's very confusing.
+[05:36.920 --> 05:40.160]  On top of that, we're building on top of some technical foundation
+[05:40.160 --> 05:41.240]  that wasn't stable.
+[05:41.240 --> 05:43.800]  So is there a hard to tell whether it's our own bug
+[05:43.800 --> 05:46.440]  or is the bug come from the platform you were using?
+[05:46.440 --> 05:49.640]  So fundamentally, we have to rewrite the whole software.
+[05:49.640 --> 05:50.840]  We're going to run you out of time
+[05:50.840 --> 05:52.400]  if we don't reset the company.
+[05:52.400 --> 05:54.880]  I think the most important one is about your stuff.
+[05:54.880 --> 05:57.560]  It's about, are you building something for yourself
+[05:57.560 --> 06:00.760]  or are you building something that the world wants?
+[06:00.760 --> 06:02.680]  The first version of Notion, very much,
+[06:02.680 --> 06:06.040]  what you think the world wants, what you want.
+[06:06.040 --> 06:07.680]  The Notion's first approach was essentially
+[06:07.680 --> 06:10.880]  to create this platform where you can build software.
+[06:10.880 --> 06:12.320]  So it gave you all the building blocks,
+[06:12.320 --> 06:14.360]  and it could basically set, OK, now you can take these
+[06:14.360 --> 06:17.240]  building blocks and build whatever software you can dream about.
+[06:17.240 --> 06:19.280]  The challenge is that people don't wake up
+[06:19.280 --> 06:20.240]  wanting to build software.
+[06:20.240 --> 06:24.480]  People just wake up to do their job.
+[06:24.480 --> 06:26.440]  At that time, team is about four or five people.
+[06:26.440 --> 06:28.640]  Me and Simon, my co-hungers, would probably
+[06:28.640 --> 06:30.320]  most likely be going to run out of money.
+[06:30.320 --> 06:33.920]  Unfortunately, lay off everybody and go to somewhere small
+[06:33.920 --> 06:37.080]  and interestingly and quiet, and we can just focus on coding.
+[06:37.080 --> 06:38.000]  Look at it, Japan.
+[06:38.000 --> 06:40.400]  Because neither of us has been to Japan
+[06:40.400 --> 06:41.720]  and we always want to go to.
+[06:41.720 --> 06:46.160]  And the reason for Kyoto is if you look at an Airbnb, Tokyo
+[06:46.160 --> 06:48.320]  and those Osaka or other major cities,
+[06:48.320 --> 06:49.640]  the rooms are fairly small.
+[06:49.640 --> 06:51.160]  The apartments are fairly small.
+[06:51.160 --> 06:53.960]  But for Kyoto, probably because during World War II,
+[06:53.960 --> 06:57.440]  it wasn't got bombed, and a lot of other houses are still there.
+[06:57.440 --> 07:00.560]  They're quite a bit bigger, and the pace of life in the city
+[07:00.560 --> 07:01.680]  is slower as well.
+[07:01.680 --> 07:03.800]  So go for folks that are working on things,
+[07:03.800 --> 07:05.960]  and it's a much cheaper city than San Francisco.
+[07:05.960 --> 07:09.640]  So we build the notion that everybody's working on today
+[07:09.640 --> 07:11.600]  is rebuilt from that stage.
+[07:11.600 --> 07:17.520]  So in 2018, summer, Ivan and I got together for breakfast
+[07:17.520 --> 07:18.280]  just to catch up.
+[07:18.280 --> 07:19.360]  I was at LinkedIn then.
+[07:19.360 --> 07:22.440]  I was itching to get back into the garage and build again.
+[07:22.440 --> 07:24.160]  And I thought I would probably leave LinkedIn
+[07:24.160 --> 07:25.560]  and start my own company.
+[07:25.560 --> 07:27.080]  But as you were having breakfast heat,
+[07:27.080 --> 07:29.640]  I even talked a lot about the 2.0 release,
+[07:29.640 --> 07:30.920]  which introduced the database.
+[07:30.920 --> 07:33.520]  The tipping point for us was when we moved away
+[07:33.520 --> 07:37.840]  from asking you to build software to providing you simple templates
+[07:37.840 --> 07:39.000]  that allow you to do your job.
+[07:39.000 --> 07:41.080]  We came in and said, hey, here's a knowledge base
+[07:41.080 --> 07:42.760]  so you can collaborate with all your friends.
+[07:42.760 --> 07:46.000]  Now, underneath that product, all the capabilities still exist.
+[07:46.000 --> 07:47.440]  Like you can still modify it.
+[07:47.440 --> 07:49.080]  You can still build your own software.
+[07:49.080 --> 07:52.240]  But my marketing to you is less about that
+[07:52.240 --> 07:56.240]  and more about specific things that you need to do your job
+[07:56.240 --> 07:57.880]  and how notion fills that gap.
+[07:57.880 --> 08:00.360]  And so as we were talking, Ivan was at that time looking
+[08:00.360 --> 08:03.360]  for a COO who could really help scale the business.
+[08:03.360 --> 08:05.200]  The company was about eight people then,
+[08:05.200 --> 08:08.360]  and he offered me that role, which was a really interesting role.
+[08:08.360 --> 08:10.400]  I think everything that I had done up until that point
+[08:10.400 --> 08:12.160]  was more on the product side.
+[08:12.160 --> 08:14.680]  And this role was basically a role
+[08:14.680 --> 08:16.760]  that was trying to do everything inside the company,
+[08:16.760 --> 08:17.720]  except product.
+[08:17.720 --> 08:21.000]  I think his thinking was that if he could get a product counterpart
+[08:21.000 --> 08:22.840]  to really help build out the go-to market
+[08:22.840 --> 08:25.040]  and the foundational teams here,
+[08:25.040 --> 08:27.360]  I think it would allow him to stay focused on product.
+[08:27.360 --> 08:29.680]  And for me, this felt like a really interesting opportunity
+[08:29.680 --> 08:32.640]  where I joined well before, I think most people
+[08:32.640 --> 08:33.640]  knew about notion.
+[08:33.640 --> 08:36.280]  And I got to take something that had just hit product market fit
+[08:36.280 --> 08:37.280]  and take it with the message.
+[08:37.280 --> 08:39.480]  After a lot of thinking, I decided to join
+[08:39.480 --> 08:40.920]  the fall of 2018.
+[08:40.920 --> 08:41.920]  And yeah, it's been amazing to watch.
+[08:41.920 --> 08:43.480]  I think we were eight people then,
+[08:43.480 --> 08:45.440]  and we are close to 500 people now,
+[08:45.440 --> 08:46.640]  just in four years.
+[08:46.640 --> 08:49.800]  Business has grown over 100 fold in that timeframe.
+[08:49.800 --> 08:52.720]  As the post-motion concert dance in Korea,
+[08:52.720 --> 08:55.880]  I believe the key to notion's global success
+[08:55.880 --> 08:58.440]  is notion-user community worldwide.
+[08:58.440 --> 09:00.400]  I discovered notion on first thought
+[09:00.400 --> 09:03.040]  during the release of notion version two.
+[09:03.040 --> 09:05.640]  After using the product, I fell in love
+[09:05.640 --> 09:07.640]  with notion database function.
+[09:07.640 --> 09:11.800]  I then took to social media post to share my knowledge
+[09:11.800 --> 09:15.200]  and know how and template guide and contribute
+[09:15.200 --> 09:18.640]  to growth of the notion community in Korea.
+[09:18.640 --> 09:22.360]  Today, the community has 43 K members.
+[09:22.360 --> 09:25.680]  It's amazing to see similar notion community
+[09:25.680 --> 09:27.560]  popping up all over the world.
+[09:27.560 --> 09:31.280]  Again, it's kind of like our combined with technology.
+[09:31.280 --> 09:33.200]  It's their intuition driven.
+[09:33.200 --> 09:35.280]  So a lot of things it just feels right.
+[09:35.280 --> 09:38.520]  And other things, we try to keep things very,
+[09:38.520 --> 09:40.920]  we call it keep a extremely simple.
+[09:40.920 --> 09:43.240]  The simplest, we use the word dumb.
+[09:43.240 --> 09:46.120]  Like so dumb that we need to pay too much attention
+[09:46.120 --> 09:47.600]  to start picking up and start using it
+[09:47.600 --> 09:49.240]  because it feels really natural, right?
+[09:49.240 --> 09:52.200]  It should just feel like you're extension for your body.
+[09:52.200 --> 09:53.800]  Like you know how to use your hands.
+[09:53.800 --> 09:57.440]  You know how to use very simple tools like a pen
+[09:57.440 --> 10:00.920]  or a cup because they're evolved so long with you.
+[10:00.920 --> 10:03.440]  I fundamentally is about solving people's problems.
+[10:03.440 --> 10:06.840]  We do so and people should love us, they will love us.
+[10:06.840 --> 10:10.480]  And there's a lot more room to grow up.
+[10:10.480 --> 10:12.040]  You can do so many different things with notion,
+[10:12.040 --> 10:14.600]  but it's built by you know, just over 100 engineers.
+[10:14.600 --> 10:16.720]  And I think the reason that is possible
+[10:16.720 --> 10:20.000]  is because architecturally we have built the sort
+[10:20.000 --> 10:22.800]  of the notion product in a way that is very modular.
+[10:22.800 --> 10:26.080]  And we sort of want to expose these building blocks
+[10:26.080 --> 10:27.080]  to other people.
+[10:27.080 --> 10:29.800]  For example, we are not building a CRM
+[10:29.800 --> 10:33.240]  or we are not building a specific project management software,
+[10:33.240 --> 10:35.240]  but we're giving you all the building blocks
+[10:35.240 --> 10:36.240]  so that you can build it.
+[10:36.240 --> 10:38.840]  And so similar to LEGO, I think the engineers focus
+[10:38.840 --> 10:40.560]  on building the building blocks.
+[10:40.560 --> 10:42.880]  And then we have the marketing team and the community
+[10:42.880 --> 10:45.520]  that takes the building blocks and creates templates
+[10:45.520 --> 10:47.680]  that market specific use cases.
+[10:47.680 --> 10:49.880]  And that makes it a very efficient engine, right?
+[10:49.880 --> 10:51.200]  Engineers don't have to think about
+[10:51.200 --> 10:52.560]  building a very specific use case.
+[10:52.560 --> 10:54.320]  They focus on just building capability
+[10:54.320 --> 10:56.840]  and then marketing and other stakeholders
+[10:56.840 --> 10:59.520]  build the packaging that we can go out and sell.
+[10:59.520 --> 11:00.720]  I think that's probably one of the reasons
+[11:00.720 --> 11:02.000]  why notion is being able to stay
+[11:02.000 --> 11:05.360]  so lean as we've grown to scale so far.
+[11:07.480 --> 11:09.680]  Today, we're introducing Notion AI,
+[11:09.680 --> 11:12.200]  which brings the power of artificial intelligence
+[11:12.200 --> 11:14.160]  directly into your notion workspace.
+[11:15.720 --> 11:19.040]  Let's say we're writing a blog post to introduce Notion AI.
+[11:19.040 --> 11:21.680]  It's as simple as asking AI assist for help
+[11:21.680 --> 11:23.360]  and clicking generate post.
+[11:24.320 --> 11:26.120]  Next, just sit back and watch
+[11:26.120 --> 11:29.040]  as artificial intelligence completes your first draft.
+[11:29.040 --> 11:31.960]  Notion AI allows people to essentially just tell
+[11:31.960 --> 11:34.040]  what you're trying to do and it sort of automatically
+[11:34.040 --> 11:36.040]  generates a lot of content or does a lot of things
+[11:36.040 --> 11:37.040]  that you want it to.
+[11:37.040 --> 11:40.440]  If you have a long doc, you can ask it to summarize things.
+[11:40.440 --> 11:43.040]  If you are starting from scratch, it's like a blank page,
+[11:43.040 --> 11:46.040]  you want some help, you can ask it to write a few things
+[11:46.040 --> 11:48.040]  so that you can get started with it.
+[11:48.040 --> 11:50.040]  I think AI itself is changing every week
+[11:50.040 --> 11:52.040]  except to see how it evolves.
+[11:52.040 --> 11:53.040]  It's been quite a fun journey,
+[11:53.040 --> 11:56.040]  but at the same time, it still feels like pretty early.
+[11:56.040 --> 11:58.040]  Like, I think it's a lot of things that you want to do.
+[11:58.040 --> 11:59.040]  Like, pretty early.
+[11:59.040 --> 12:01.040]  Like, I think there's still a lot of work to be done
+[12:01.040 --> 12:03.040]  and we still feel like our best days are ahead of us.
+[12:03.040 --> 12:06.040]  So I'm excited to see what the next couple of years, you know,
+[12:06.040 --> 12:07.040]  hold for us.
+[12:09.040 --> 12:11.040]  We have four values at Notion.
+[12:11.040 --> 12:14.040]  We are mission driven, owners of our mission.
+[12:14.040 --> 12:17.040]  So essentially our mission is to sort of enable ubiquitous
+[12:17.040 --> 12:19.040]  software tool making and we've very much
+[12:19.040 --> 12:20.040]  our owners of that.
+[12:20.040 --> 12:22.040]  The second value is that we are paste-setters.
+[12:22.040 --> 12:24.040]  Obviously, it's start-up, so we need to move fast.
+[12:24.040 --> 12:27.040]  I think that's one way we can win in the market.
+[12:27.040 --> 12:29.040]  The third value is we are truth seekers,
+[12:29.040 --> 12:32.040]  which is that we spend a lot of time rigorously thinking
+[12:32.040 --> 12:35.040]  about a specific decision before we actually move forward.
+[12:35.040 --> 12:38.040]  And the fourth one is we are kind and direct.
+[12:38.040 --> 12:40.040]  We want to be kind to our coworkers,
+[12:40.040 --> 12:43.040]  but at the same time, we want to be able to be direct
+[12:43.040 --> 12:46.040]  and be honest with each other so that we're pushing each other
+[12:46.040 --> 12:47.040]  to do our best work.
+[12:47.040 --> 12:50.040]  I think these four values are very much authentically us.
+[12:50.040 --> 12:53.040]  It's not aspirationally us, but it's like who we are.
+[12:53.040 --> 12:55.040]  And we like that the second and third value
+[12:55.040 --> 12:57.040]  which is paste-setting and truth seeking,
+[12:57.040 --> 12:58.040]  fight with each other.
+[12:58.040 --> 13:00.040]  Because in many cases, some projects you want to move fast.
+[13:00.040 --> 13:02.040]  And in some cases, you want to be able to take time
+[13:02.040 --> 13:03.040]  and rigorously think.
+[13:03.040 --> 13:06.040]  So we like that they fight with each other so that we find like,
+[13:06.040 --> 13:08.040]  okay, which projects can we move fast to where,
+[13:08.040 --> 13:10.040]  which projects should we spend more time thinking about?
+[13:10.040 --> 13:12.040]  The fourth value of being kind and direct is obviously nice
+[13:12.040 --> 13:14.040]  because we're not just trying to be nice with each other.
+[13:14.040 --> 13:16.040]  We're trying to really achieve our mission
+[13:16.040 --> 13:19.040]  and that requires us to be direct with each other.
+[13:19.040 --> 13:22.040]  These values have really helped us hire the right people.
+[13:22.040 --> 13:24.040]  These values have really helped us make being a good decision.
+[13:24.040 --> 13:25.040]  Sort of rubric for us.
+[13:25.040 --> 13:27.040]  Like when we're making important decisions,
+[13:27.040 --> 13:30.040]  we think about like, does this represent the values we have?
+[13:30.040 --> 13:34.040]  And it's memorable, I can say these four values in my sleep now,
+[13:34.040 --> 13:36.040]  which I think is nice because I don't have to think about
+[13:36.040 --> 13:37.040]  what the values are.
+[13:37.040 --> 13:41.040]  The long-term mission of the company is to create ubiquitous
+[13:41.040 --> 13:44.040]  software toolmaking, which is the simple idea
+[13:44.040 --> 13:46.040]  that there's a billion knowledge workers out there.
+[13:46.040 --> 13:49.040]  And our hope is that all of them feel the power
+[13:49.040 --> 13:52.040]  to modify or create their own software.
+[13:52.040 --> 13:56.040]  In doing that, we hope that notion becomes the third generation
+[13:56.040 --> 13:59.040]  of productivity software, after Microsoft Office and Google Suite.
+[13:59.040 --> 14:02.040]  We're much more powerful in that people will be able to not just
+[14:02.040 --> 14:06.040]  take notes and manage projects, but will be able to create things
+[14:06.040 --> 14:08.040]  that sort of work the way their brain works.
+[14:08.040 --> 14:09.040]  We're very excited about that.
+[14:09.040 --> 14:11.040]  It'll probably take us more than a decade to get there,
+[14:11.040 --> 14:22.040]  but we're excited to work on it.

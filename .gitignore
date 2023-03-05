@@ -5,6 +5,10 @@ build
 # Binaries
 bin
 
+# System folders
+.DS_Store
+
+
 
 # Project configuration
 .idea
@@ -21,3 +25,7 @@ logs
 *.rar
 *.tar
 *.zip
+
+# Audio files
+*.mp3
+

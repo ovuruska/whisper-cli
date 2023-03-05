@@ -1,8 +1,12 @@
+.gitignore
+MANIFEST.in
 README.rst
+requirements.txt
 setup.py
 src/whisper_cli/__init__.py
 src/whisper_cli/cli.py
 src/whisper_cli/download_ffmpeg.py
+src/whisper_cli/translate.py
 src/whisper_cli.egg-info/PKG-INFO
 src/whisper_cli.egg-info/SOURCES.txt
 src/whisper_cli.egg-info/dependency_links.txt

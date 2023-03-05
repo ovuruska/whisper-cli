@@ -72,7 +72,10 @@ setup(
             "w64.exe",
             "w64-arm.exe",
         ],
+	    #"bin": ["./bin/*"],
     },
+	include_package_data=True,
+
     entry_points={
         "console_scripts": [
             "whisper_cli=whisper_cli.cli:main",
